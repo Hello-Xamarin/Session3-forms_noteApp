@@ -1,0 +1,2 @@
+android.app.Application
+xamarin_msp_3.Droid
